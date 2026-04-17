@@ -4,7 +4,8 @@
 - 💞️ I’m looking to collaborate on Different domins
 - 📫 How to reach me ...
 - 😄 Pronouns: MR
-- ⚡ Fun fact: I have 2 startups
+
+
 
 <!---
 ChavaDheeraj/ChavaDheeraj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
